@@ -1,0 +1,10 @@
+@import "tailwindcss";
+select {
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  background-color: #333a5c;
+  color: white;
+}
+#card {
+}
